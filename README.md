@@ -11,7 +11,7 @@ The `BigBazaarScrapper` has the following prerequisites:
 
  - **Python 3.7 or newer versions**
  - **Python Library - BeautifulSoup**
- - **Python Library - Selemium**
+ - **Python Library - Selenium**
  - **Chromedriver.exe**
 
 
