@@ -1,11 +1,14 @@
 
+
 # BIG BAZAAR SCRAPPER
------------------
-# Cloning the Project
+
+## Cloning the Project
 ```sh
 git clone git@github.com:Ayan47/BigBazaarScrapper.git
 ```
-# Prerequisites 
+## Description
+This Webscrapper goes to Big Bazaar website and categorically scraps data out of it. The format being that of Item,List Price, Member Price and Quantity.
+## Prerequisites 
 
 The `BigBazaarScrapper` has the following prerequisites: 
 
@@ -17,7 +20,7 @@ The `BigBazaarScrapper` has the following prerequisites:
 
 The BigBazaarscrapper has been tested on `Windows 10` Build Version `19042.867`
 
-# Steps to Run the BigBazaarScrapper 
+## Steps to Run the BigBazaarScrapper 
 
  - Install `Python 3.7` or newer versions
  - Install the following Python Libraries- `BeautifulSoup`, `Selenium` (`Json` and `Time` too if not already present)
